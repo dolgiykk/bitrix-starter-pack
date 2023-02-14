@@ -2,3 +2,4 @@
 /upload
 /vendor
 /.php-cs-fixer.cache
+/.idea
